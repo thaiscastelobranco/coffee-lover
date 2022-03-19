@@ -1,0 +1,16 @@
+body {
+    font-family: 'Calibri';  
+}
+
+.navbar {
+    display: block;
+    padding: 15px;
+}
+
+.my-4{
+    text-align: center;
+}
+
+h3 {
+    font-size: 40px;
+}
